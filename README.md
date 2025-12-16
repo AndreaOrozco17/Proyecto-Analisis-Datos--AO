@@ -12,7 +12,7 @@ Esta es una aplicación web interactiva desarrollada con **Streamlit** y **Plotl
 - Los gráficos son interactivos y permiten explorar tendencias y valores atípicos.
 - Opcionalmente, el usuario puede elegir qué gráficos mostrar mediante botones o casillas de verificación.
 
-**Tecnologías utilizadas**
+**Tecnologías Utilizadas**
 
 - Python
 - Streamlit
